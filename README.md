@@ -22,6 +22,11 @@ Click the demo link or clone/download the repository on your local machine.
 Create a config.js file in api folder inside src folders. In config.js file write
 `export const apiKey = "YOUR_FLIKR_API_KEY";`
 
+
+### Clone project
+
+### `git clone https://github`
+
 ##### Install dependencies
 
 `yarn install`
