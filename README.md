@@ -23,9 +23,9 @@ Create a config.js file in api folder inside src folders. In config.js file writ
 `export const apiKey = "YOUR_FLIKR_API_KEY";`
 
 
-### Clone project
+##### Clone project
 
-### `git clone https://github`
+`git clone https://github.com/shinystarlight00/react-snapshot-app.git`
 
 ##### Install dependencies
 
